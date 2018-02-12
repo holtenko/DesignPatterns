@@ -1,5 +1,4 @@
-# Design patterns implemented in Java
-# 设计模式(Java实现)
+# Design patterns implemented in Java 设计模式(Java实现)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 ## Design Patterns 设计模式
