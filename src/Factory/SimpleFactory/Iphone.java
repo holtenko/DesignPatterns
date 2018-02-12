@@ -1,4 +1,4 @@
-package Factory;
+package Factory.SimpleFactory;
 
 /**
  * @author holten

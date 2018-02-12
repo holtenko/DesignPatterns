@@ -1,4 +1,6 @@
-package Factory;
+package Factory.SimpleFactory;
+
+import Factory.FactoryMethod.Iphone;
 
 public class FactoryDemo {
 

@@ -1,4 +1,9 @@
-package Factory;
+package Factory.SimpleFactory;
+
+import Factory.FactoryMethod.Iphone;
+import Factory.FactoryMethod.Iphone7;
+import Factory.FactoryMethod.Iphone8;
+import Factory.FactoryMethod.Iphonex;
 
 /**
  * @author holten
