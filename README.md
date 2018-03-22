@@ -6,6 +6,7 @@
 | ----- | -------- | ---------- |
 |Factory|[Factory](./src/Factory)|[没事学点设计模式-工厂模式](http://blog.holten.site/2017/09/29/design-pattern-2/)|
 |Abstract Factory|[Abstract Factory](./src/AbstractFactory)|[没事学点设计模式-抽象工厂模式](http://blog.holten.site/2018/02/12/design-pattern-3/)|
+|Singleton|[Singleton](./src/Singleton)|[没事学点设计模式-单例模式](http://blog.holten.site/2018/03/22/design-pattern-4/)|
 
 ## Licence
 MIT License
